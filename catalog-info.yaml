@@ -1,0 +1,62 @@
+apiVersion: backstage.io/v1alpha1
+kind: Product
+metadata:
+  name: TestBackstageAppwithcatalogTableChangesAndPagination
+  annotations:
+    confluence/page: TestBackstageApp with catalogTable Changes And Pagination
+    createdBy: admin
+    createdFrom: Created from Backstage
+    createdAt: Wed Jun 19 2024 17:01:20 GMT+0530 (India Standard Time)
+    updatedFrom: ''
+    lastUpdatedAt: ''
+spec:
+  type: service
+  owner: guest3
+  lifecycle: experimental
+  version: TestBackstageApp with catalogTable Changes And Pagination
+  projectInfo:
+    projectName: TestBackstageApp with catalogTable Changes And Pagination
+    moduleName: 'aws '
+    informationAuthor: guest3
+    modality:
+      - MR
+      - PET
+    bodyParts: Cardiac
+    processingPurpose: Detection
+    protocol: Contrast CT and CT
+    algorithmType: 'Classical '
+    packageType: 'AP Image and source '
+    supportedOs: Linux
+    sourceCodeLanguage: Typescript
+    developmentStatus: DEVELOPMENT
+    linkToProject: asdfrere
+  applicationInfo:
+    linkAPI: 'Catalog '
+    inputImages: 'Table '
+    inputValues: CatalogTable
+    outputImages: CatalogTable
+    outputValues: StickyTable
+    limitations: 'Pagination with Limit '
+    algorithmDevelopmentCompany: Canon Medical
+  productization:
+    productizedApplication: Test App
+    function: Critical
+    productizedOwner: Selva
+    releaseNotes: Check
+    knowIssues: N/A
+  evaluationInformation:
+    evaluationResults: S
+    evaluationType: Internal
+    clinicalData: N/A
+  algorithmInformation:
+    developmentPurpose: 'CatalogTable '
+    developmentStatus: Product
+    algorithmDevelopmentCompany: 'Canon medical '
+    personinCharge: Test
+    collaborativeResearchPartner: Test1
+    existenceofExternalIP: test
+  technologyInformationforCMRE:
+    fundingProject: POC
+    group: IMAGE ANALYSIS
+    TRL: E-NICE
+    projectStatus: ACTIVE
